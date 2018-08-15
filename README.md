@@ -5,8 +5,8 @@ Queremos ser mejores programadores, y la práctica hace al master. Te invitamos 
 
 
 #Inscripción
-- Llenar [ESTE FORM](https://www.google.com), para entrar a participar con la comunidad
-- Acceder con tu mail al JS30DayChallenge para acceder a los cursos diarios
+- Llenar [ESTE FORM](https://docs.google.com/forms/d/e/1FAIpQLSdGKuN2EPDuwnnTpkH9hXl9VJdPQnGWs8GJQ_fbkJMcAF4Pog/viewform), para entrar a participar con la comunidad
+- Crea una cuenta en  [JS30DayChallenge](https://javascript30.com/) para acceder a los cursos diarios
 - crear una branch con tu nombre en ESTE REPO
 - Hacer un commit diario para seguir participando.
 - Todos los dias compartiremos por twitter a los participantes que, haciendo su commit, pasaron a la ronda del dia siguiente.
