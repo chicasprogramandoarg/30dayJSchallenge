@@ -4,14 +4,14 @@ Dear JS: We will, we will ROCK YOU.
 Queremos ser mejores programadores, y la práctica hace al master. Te invitamos a hacer juntes este Challenge durante 30 días. ¡Les ganadores tendran premios!
 
 
-#Inscripción
+## Inscripción
 - Llenar [ESTE FORM](https://docs.google.com/forms/d/e/1FAIpQLSdGKuN2EPDuwnnTpkH9hXl9VJdPQnGWs8GJQ_fbkJMcAF4Pog/viewform), para entrar a participar con la comunidad
 - Crea una cuenta en  [JS30DayChallenge](https://javascript30.com/) para acceder a los cursos diarios
 - crear una branch con tu nombre en ESTE REPO
 - Hacer un commit diario para seguir participando.
 - Todos los dias compartiremos por twitter a los participantes que, haciendo su commit, pasaron a la ronda del dia siguiente.
 
-#Reglas
+## Reglas
 - El Challenge se llevará a cabo del 1 de Septiembre al 30 de Septiembre del 2018
 - Si faltas a un commit diario, quedas descalificadx.
 - Todos tus commits deben hacerse en tu propia branch.
@@ -19,7 +19,7 @@ Queremos ser mejores programadores, y la práctica hace al master. Te invitamos 
 
 
 
-#contenido del Challenge por dia
+## contenido del Challenge por dia
 
 - 1 JavaScript Drum Kit 19:39
 - 2 CSS + JS Clock 10:44
