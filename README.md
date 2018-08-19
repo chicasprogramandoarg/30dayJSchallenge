@@ -7,8 +7,11 @@ Queremos ser mejores programadores, y la práctica hace al master. Te invitamos 
 ## Inscripción
 - Llenar [ESTE FORM](https://docs.google.com/forms/d/e/1FAIpQLSdGKuN2EPDuwnnTpkH9hXl9VJdPQnGWs8GJQ_fbkJMcAF4Pog/viewform), para entrar a participar con la comunidad
 - Crea una cuenta en  [JS30DayChallenge](https://javascript30.com/) para acceder a los cursos diarios
-- crear una branch con tu nombre en ESTE REPO
-- Hacer un commit diario para seguir participando.
+- clonarte este repo 
+$ git clone https://github.com/chicasprogramandoarg/30dayJSchallenge.git
+- crear una branch con tu nombre en el repositorio.
+$ git checkout -b nombre-apellido
+- Hacer un commit diario por cada challenge, para seguir participando.
 - Todos los dias compartiremos por twitter a los participantes que, haciendo su commit, pasaron a la ronda del dia siguiente.
 
 ## Reglas
