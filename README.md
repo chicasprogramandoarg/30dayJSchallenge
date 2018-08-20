@@ -1,18 +1,18 @@
 # 30dayJSchallenge
 Dear JS: We will, we will ROCK YOU.
 
-Queremos ser mejores programadores, y la práctica hace al master. Te invitamos a hacer juntes este Challenge durante 30 días. ¡Les ganadores tendran premios!
+Queremos ser mejores programadores, y la práctica hace al master. Te invitamos a hacer juntes este Challenge que creó Wes Bos para hacer durante 30 días. ¡Les ganadores tendran premios!
 
 
 ## Inscripción
 - Llenar [ESTE FORM](https://docs.google.com/forms/d/e/1FAIpQLSdGKuN2EPDuwnnTpkH9hXl9VJdPQnGWs8GJQ_fbkJMcAF4Pog/viewform), para entrar a participar con la comunidad
-- Crea una cuenta en  [JS30DayChallenge](https://javascript30.com/) para acceder a los cursos diarios
-- clonarte este repo 
-$ git clone https://github.com/chicasprogramandoarg/30dayJSchallenge.git
-- crear una branch con tu nombre en el repositorio.
-$ git checkout -b nombre-apellido
-- Hacer un commit diario por cada challenge, para seguir participando.
-- Todos los dias compartiremos por twitter a los participantes que, haciendo su commit, pasaron a la ronda del dia siguiente.
+#Inscripción
+- Crea una cuenta en  [JS30DayChallenge] (https://javascript30.com/) para acceder a los cursos diarios de Wes Bos.
+- Hacer un fork de este repositorio https://github.com/chicasprogramandoarg/30dayJSchallenge
+- Clonar el repositorio que forkeaste. Aquí subirás las soluciones diarias del challenge. 
+- Hacer un commit & push diario en ese repositorio que forkeaste por cada challenge, para seguir participando.
+
+Podes inscribirte hasta las 23:59 del 30 de Agosto
 
 ## Reglas
 - El Challenge se llevará a cabo del 1 de Septiembre al 30 de Septiembre del 2018
@@ -20,6 +20,9 @@ $ git checkout -b nombre-apellido
 - Todos tus commits deben hacerse en tu propia branch.
 
 
+## Recursos
+### ¿Cómo forkear un repositorio?
+https://help.github.com/articles/fork-a-repo/
 
 
 ## contenido del Challenge por dia
