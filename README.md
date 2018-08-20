@@ -6,7 +6,6 @@ Queremos ser mejores programadores, y la práctica hace al master. Te invitamos 
 
 ## Inscripción
 - Llenar [ESTE FORM](https://docs.google.com/forms/d/e/1FAIpQLSdGKuN2EPDuwnnTpkH9hXl9VJdPQnGWs8GJQ_fbkJMcAF4Pog/viewform), para entrar a participar con la comunidad
-#Inscripción
 - Crea una cuenta en  [JS30DayChallenge] (https://javascript30.com/) para acceder a los cursos diarios de Wes Bos.
 - Hacer un fork de este repositorio https://github.com/chicasprogramandoarg/30dayJSchallenge
 - Clonar el repositorio que forkeaste. Aquí subirás las soluciones diarias del challenge. 
@@ -19,6 +18,11 @@ Podes inscribirte hasta las 23:59 del 30 de Agosto
 - Si faltas a un commit diario, quedas descalificadx.
 - Todos tus commits deben hacerse en tu propia branch.
 
+## Instrucciones
+- En el repositorio, encontrarás una lista de carpetas donde se encuentran los desafíos para cada día. 
+- En cada carpeta encontrarás todo lo que necesitas para realizar el challenge de ese día. 
+- En cada carpeta, deberás solucionar el desafío diario, sumando tu código.
+- Cuando hayas completado el challenge, deberás hacer un commit & push a tu repositorio forkeado con las soluciones para que el equipo pueda revisarla, y así pasar a la siguiente ronda.
 
 ## Recursos
 ### ¿Cómo forkear un repositorio?
