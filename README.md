@@ -11,7 +11,8 @@ Queremos ser mejores programadores, y la práctica hace al master. Te invitamos 
 - Clonar el repositorio que forkeaste. Aquí subirás las soluciones diarias del challenge. 
 - Hacer un commit & push diario en ese repositorio que forkeaste por cada challenge, para seguir participando.
 
-Podes inscribirte hasta las 23:59 del 30 de Agosto
+* Podes inscribirte hasta las 23:59 del 30 de Agosto
+* **CIERRE DEL EVENTO** => 10 de Octubre en El Destello (Gascón 1460)
 
 ## Reglas
 - El Challenge se llevará a cabo del 1 de Septiembre al 30 de Septiembre del 2018
